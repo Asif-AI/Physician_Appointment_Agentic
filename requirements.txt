@@ -19,4 +19,4 @@ faiss-cpu
 sentence_transformers
 youtube_search
 yfinance
--e .
+
